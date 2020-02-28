@@ -1,1 +1,4 @@
-This application was made as a final project for AP Computer Science. The code requires the assistance of libGDX.
+# Bomberman Game Replica
+## By Steven Huynh-Tran
+
+For my final project in AP Computer Science, I chose to replicate the classic game Bomberman. When I was younger, I would play Bomberman everyday on the Nintendo SNES and so being able to make a clone of the game was an extremely fun project. This application was programmed in Java using libGDX.
